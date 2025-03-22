@@ -1,5 +1,3 @@
-# build-your-shell-c
-Building your own shell in C 
 # Build Your Own Shell in C
 
 ## Objective
